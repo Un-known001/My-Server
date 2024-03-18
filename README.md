@@ -68,7 +68,7 @@ Open the termux app and type following commands.
 
 * `git clone https://github.com/Un-known001/My-Server.git`
 
-* `cd MyServer`
+* `cd My-Server`
 
 * `chmod +x install`
 
